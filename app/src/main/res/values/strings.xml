@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculador De notas</string>
+    <string name="primeira_nota">Nota 1</string>
+    <string name="segunda_nota">Nota 2</string>
+    <string name="faltas">Número de faltas</string>
+    <string name="statusAluno">Aluno</string>
+    <string name="notaFinal">Média final:</string>
+    <string name="notaValue"></string>
+</resources>
